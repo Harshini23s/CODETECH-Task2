@@ -11,5 +11,6 @@ PROJECT: INTERACTIVE QUIZ APPLICATION
 An interactive quiz application where users can answer
 multiple-choice questions and receive feedback.
 
-<img alt>("C:\Users\bhask\OneDrive\Documents\Pictures\Screenshots\Screenshot (143).png")
-<img alt>("C:\Users\bhask\OneDrive\Documents\Pictures\Screenshots\Screenshot (144).png")
+
+
+
