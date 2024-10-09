@@ -23,6 +23,10 @@ TECHNOLOGIES USED:
 2. CSS
 3. JAVASCRIPT
 
+quizz application video:
+
+https://github.com/user-attachments/assets/6236eb01-3370-4e09-b18b-cec8a1c83ed5
+
 1. HTML (Structure)
 This defines the structure of the webpage and the quiz interface.
 
